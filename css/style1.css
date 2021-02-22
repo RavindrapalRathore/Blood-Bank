@@ -1,0 +1,142 @@
+
+body {
+	background: #f1f4f7;
+	padding-top: 50px;
+	color: #5f6468;
+	font-family: "Roboto", sans-serif;
+}
+
+
+header{
+	background-image: url(../images.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+lu.test
+{
+	float: left;
+	list-style-type: none;
+	margin-top: 55px;
+	text-decoration: none;
+	text-align: center;
+  	text-transform: uppercase;
+ 	color: #A9A9A9;
+	border: 1px solid gray;
+	padding: 20px 50px;
+	border: 0px solid gray;
+	 white-space: nowrap; 
+  	width: 335px; 
+  	overflow: hidden; 
+}
+lu.test:hover {
+  overflow: visible;
+}
+
+/*.navbar-header .navbar-brand {
+	color: #e74c3c;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 500;
+	letter-spacing: 2px;
+}
+.navbar-brand:hover{
+	color: #e74c3c !important;
+}
+
+.navbar-header .navbar-brand span {
+	color: #30a5ff;
+}*/
+
+
+/*Backgrounds*/
+
+.bg-primary {
+	color: #1b3548;
+	background-color: #e9ecf2;
+}
+a.bg-primary:hover {
+	background-color: #e9ecf2;
+}
+.bg-success {
+	color: #fff;
+	background-color: #8ad919;
+}
+a.bg-success:hover {
+	background-color: #8ad919;
+}
+.bg-success a {
+	color: rgba(255, 255, 255, .75);
+}
+.bg-info {
+	color: #fff;
+	background-color: #30a5ff;
+}
+a.bg-info:hover {
+	background-color: #30a5ff;
+}
+.bg-info a {
+	color: rgba(255, 255, 255, .75);
+}
+.bg-warning {
+	color: #fff;
+	background-color: #ffb53e;
+}
+a.bg-warning:hover {
+	background-color: #ffb53e;
+}
+.bg-warning a {
+	color: rgba(255, 255, 255, .75);
+}
+.bg-danger {
+	color: #fff;
+	background-color: #f9243f;
+}
+a.bg-danger:hover {
+	background-color: #f9243f;
+}
+.bg-danger a {
+	color: rgba(255, 255, 255, .75);
+}
+
+
+
+/*Navbar*/
+
+/*.navbar {
+	border: 0;
+	color: #e74c3c !important;
+	background-color: white;
+}
+
+.navbar input {
+	border: 0;
+	background: #444;
+	color: #fff;
+}
+
+.navbar input:focus {
+	color: #fff;
+	background: #555;
+	border: 1px solid #30a5ff;
+	outline: 0;
+	box-shadow: inset 0px 0px 0px 1px #30a5ff;
+}*/
+
+/*.user-menu {
+	display: inline-block;
+	margin-top: 14px;
+	margin-right: 10px;
+	float: right;
+	list-style: none;
+	padding: 0;
+}
+
+.user-menu a {
+	color: #e74c3c;
+}
+
+.user-menu a:hover, .user-menu a:focus {
+	text-decoration: none;
+
+}*/
